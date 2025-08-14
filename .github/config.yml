@@ -1,0 +1,12 @@
+# Configuration for welcome - https://github.com/behaviorbot/welcome
+
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: >
+  Thank you for posting your first issue and for contributing to open source!  
+  Please take a moment to familiarize yourself with the [Code of Conduct](https://github.com/google/transit?tab=coc-ov-file).
+  ### First Steps
+  1. 📔 **Learn about our governance** — to understand how decisions are made, read the [Governance Guidelines](https://gtfs.org/community/governance/gtfs-schedule-governance/introduction/).  
+  2. 📬 **Stay in the loop** — subscribe to the [GTFS Digest](https://gtfs.org/blog/) to follow spec developments.  
+  3. 🌎 **Connect with the community** — join the broader GTFS Community on Slack to connect and collaborate with the greatest experts around the world.
